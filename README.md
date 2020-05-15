@@ -1,4 +1,4 @@
-# crypto T
+# crypto-T
 script in python to know hash type 
 
 
